@@ -1,0 +1,5 @@
+rootProject.name = 'Gradl'
+include 'db'
+include 'api'
+include 'service'
+
